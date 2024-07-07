@@ -1,0 +1,288 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html {
+    font-size: 56;
+
+}
+body {
+    background: #cfb7b7;
+    
+}
+
+.parent .child-1 {
+    background: #f7f7f7;
+    padding: 20px;
+}
+
+.parent {
+    padding: 20px;
+}
+.chlid-2 {
+    padding-top: 20px;
+}
+
+.ph-color .color-1 {
+    background: #f30909 ;
+    padding: 10px 20px;
+    color: #ffffff;
+    opacity: 10;
+    font-size: 1.2rem;
+
+}
+
+.ph-color .color-2 {
+    background: #fc6e10 ;
+    padding: 10px 20px;
+    color: #ffffff;
+    opacity: 10;
+    font-size: 1.2rem;
+
+}
+.ph-color .color-3 {
+    background: #fc9e10 ;
+    padding: 10px 20px;
+    color: #ffffff;
+    opacity: 10;
+    font-size: 1.2rem;
+
+}
+.ph-color .color-4 {
+    background: #a9fc10 ;
+    padding: 10px 20px;
+    color: #ffffff;
+    opacity: 10;
+    font-size: 1.2rem;
+
+}
+.ph-color .color-5 {
+    background: #37fc10 ;
+    padding: 10px 20px;
+    color: #ffffff;
+    opacity: 10;
+    font-size: 1.2rem;
+
+}
+.ph-color .color-6 {
+    background: #82fc10 ;
+    padding: 10px 20px;
+    color: #ffffff;
+    opacity: 10;
+    font-size: 1.2rem;
+
+}
+.ph-color .color-7 {
+    background: #1dff08 ;
+    padding: 10px 20px;
+    color: #ffffff;
+    opacity: 10;
+    font-size: 1.2rem;
+
+}
+.ph-color .color-8 {
+    background: #08ff5a ;
+    padding: 10px 20px;
+    color: #ffffff;
+    opacity: 10;
+    font-size: 1.2rem;
+
+}
+.ph-color .color-9 {
+    background: #21fcb3 ;
+    padding: 10px 20px;
+    color: #ffffff;
+    opacity: 10;
+    font-size: 1.2rem;
+
+}
+.ph-color .color-10 {
+    background: #08ffc1 ;
+    padding: 10px 20px;
+    color: #ffffff;
+    opacity: 10;
+    font-size: 1.2rem;
+
+}
+.ph-color .color-11 {
+    background: #2098fa ;
+    padding: 10px 20px;
+    color: #ffffff;
+    opacity: 10;
+    font-size: 1.2rem;
+
+}
+.ph-color .color-12 {
+    background: #1453ff ;
+    padding: 10px 20px;
+    color: #ffffff;
+    opacity: 10;
+    font-size: 1.2rem;
+
+}
+.ph-color .color-13 {
+    background: #1424ff ;
+    padding: 10px 20px;
+    color: #ffffff;
+    opacity: 10;
+    font-size: 1.2rem;
+
+}
+.ph-color .color-14 {
+    background: #3a119b ;
+    padding: 10px 20px;
+    color: #ffffff;
+    opacity: 10;
+    font-size: 1.2rem;
+
+}
+/* .blue .blue-1 {
+    background: #0000ff;
+    padding: 10px 20px;
+    color: #fff;
+    opacity: 0.9;
+    font-size: 1.2rem;
+}
+
+.blue .blue-2 {
+    background: #0000ff;
+    padding: 10px 20px;
+    color: #fff;
+    opacity: 0.9;
+    font-size: 1.2rem;
+}
+
+
+
+.blue .blue-3 {
+    background: #0000ff;
+    padding: 10px 20px;
+    color: #fff;
+    opacity: 0.8;
+    font-size: 1.2rem;
+}
+
+.blue .blue-4 {
+    background: #0000ff;
+    padding: 10px 20px;
+    color: #fff;
+    opacity: 0.7;
+    font-size: 1.2rem;
+}
+
+.blue .blue-5 {
+    background: #0000ff;
+    padding: 10px 20px;
+    color: #fff;
+    opacity: 0.6;
+    font-size: 1.2rem;
+}
+
+.blue .blue-6 {
+    background: #0000ff;
+    padding: 10px 20px;
+    color: #fff;
+    opacity: 0.5;
+    font-size: 1.2rem;
+}
+
+.blue .blue-7 {
+    background: #0000ff;
+    padding: 10px 20px;
+    color: #fff;
+    opacity: 0.4;
+    font-size: 1.2rem;
+}
+
+.blue .blue-8 {
+    background: #0000ff;
+    padding: 10px 20px;
+    color: #fff;
+    opacity: 0.3;
+    font-size: 1.2rem;
+}
+
+.blue .blue-9 {
+    background: #0000ff;
+    padding: 10px 20px;
+    color: #fff;
+    opacity: 0.2;
+    font-size: 1.2rem;
+}
+
+
+
+
+.pink .green {
+    background: #254400;
+    padding: 10px 20px;
+    color: #fff;
+    opacity: 0.9;
+    font-size: 1.2rem;
+}
+
+
+.pink .pink-2, .pink-1 {
+    background: #ff3457;
+    padding: 10px 20px;
+    color: #fff;
+    opacity: 0.9;
+    font-size: 1.2rem;
+}
+
+.pink .pink-3 {
+    background: #ff3457;
+    padding: 10px 20px;
+    color: #fff;
+    opacity: 0.8;
+    font-size: 1.2rem;
+}
+
+.pink .pink-4 {
+    background: #ff3457;
+    padding: 10px 20px;
+    color: #fff;
+    opacity: 0.7;
+    font-size: 1.2rem;
+}
+
+.pink .pink-5 {
+    background: #ff3457;
+    padding: 10px 20px;
+    color: #fff;
+    opacity: 0.6;
+    font-size: 1.2rem;
+}
+
+.pink .pink-6 {
+    background: #ff3457;
+    padding: 10px 20px;
+    color: #fff;
+    opacity: 0.5;
+    font-size: 1.2rem;
+}
+
+.pink .pink-7 {
+    background: #ff3457;
+    padding: 10px 20px;
+    color: #fff;
+    opacity: 0.4;
+    font-size: 1.2rem;
+}
+
+.pink .pink-8 {
+    background: #ff3457;
+    padding: 10px 20px;
+    color: #fff;
+    opacity: 0.3;
+    font-size: 1.2rem;
+}
+
+.pink .pink-9 {
+    background: #ff3457;
+    padding: 10px 20px;
+    color: #fff;
+    opacity: 0.2;
+    font-size: 1.2rem;
+} */
